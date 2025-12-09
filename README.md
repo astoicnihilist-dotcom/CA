@@ -24,6 +24,3 @@ The main goal of this assignment was to show:
 - Creating and using a simple folder structure  
 
 ---
-
-## 📁 Folder Structure
-
